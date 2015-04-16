@@ -9,8 +9,8 @@
 '''
 import math
 def main():
+    import math
+def main():
     R1,R2= input("Please enter a parallel circuit resistance R1, and the resistance value of R2")
-    R1=m£¬R2=n   #M, N parallel circuit of the shunt resistance
-    R×Ü=R    #R series total resistance of the circuit.
-    1/R=1/m+1/n
-    print"A parallel circuit of the line resistance R =" £¬R
+    R=1.0/(1.0/R1+1.0/R2)
+    print"A parallel circuit of the line resistance R =" , R
