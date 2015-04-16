@@ -9,7 +9,7 @@
 '''
 import math
 def main（）:
-    S=import（"请输入路程:"）
-    t=import（"请输入运动路程S所用的时间:"）
-    v=S\t（"得出物体运动的速度"）
+    S=import（"Please enter the path:"）
+    t=import（"Please input the motion distance of S with the time:"）
+    v=S\t（"The speed of the moving object"）
     print "v="
